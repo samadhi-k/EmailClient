@@ -1,0 +1,12 @@
+personal:samadhi,sam,mailtosamadhi@gmail.com,1998/02/05
+official:himaya,mailtosamadhi@gmail.com,ceo
+office_friend:sakith,mailtosamadhi@gmail.com,clark,1999/02/06
+personal: bob,robert, mailtosamadhi@gmail.com ,1909/03/23
+official : tom, mailtosamadhi@gmail.com , manager
+personal: percy, per , mailtosamadhi@gmail.com, 1999/02/07
+personal: sawyer, min , h.t.marasinghe99@gmail.com ,1999/02/06
+official: jake, samadhikariyawasam641@gmail.com, manager
+personal: ollie, sam , samadhikariyawasam641@gmail.com, 1999/08/23
+office_friend : liam , mailtosamadhi@gmail.com, manager, 1999/02/16
+personal : samadhi , sam , mailtosamadhi@gmail.com, 1999/02/16
+personal : peter , pete , samadhi.19@cse.mrt.ac.lk , 1999/03/29
