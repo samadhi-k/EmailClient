@@ -25,8 +25,8 @@ package Assignment.Assignment;
 		properties.put("mail.smtp.host", "smtp.gmail.com");
 		properties.put("mail.smtp.port", "587");
 		
-		final String myEmailAccount = "divyanjaleekes.190159d@gmail.com";
-		final String password = "peterbishop#1";
+		final String myEmailAccount = "username@gmail.com";
+		final String password = "password";
 		
 		try {
 			//login
